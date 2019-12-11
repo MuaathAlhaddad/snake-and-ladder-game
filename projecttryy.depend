@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1481021383 source:c:\users\toshiba\desktop\muaath\projecttryy\main.cpp
+	<iostream>
+	<time.h>
+	<fstream>
+	<string>
+	<cstdlib>
+

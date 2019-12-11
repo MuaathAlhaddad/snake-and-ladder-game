@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1476505774 source:c:\users\toshiba\desktop\muaath\project\main.cpp
+	<iostream>
+	<string.h>
+	<time.h>
+	<cstdlib>
+
